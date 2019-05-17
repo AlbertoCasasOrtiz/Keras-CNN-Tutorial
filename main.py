@@ -1,4 +1,6 @@
-#Source: https://towardsdatascience.com/building-a-convolutional-neural-network-cnn-in-keras-329fbbadc5f5
+# This code has been taken from the following source and modified, organized in class functions, for more clarity.
+#
+# Source: https://towardsdatascience.com/building-a-convolutional-neural-network-cnn-in-keras-329fbbadc5f5
 
 from test import TestKeras
 
