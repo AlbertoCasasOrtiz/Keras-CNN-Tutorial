@@ -1,0 +1,12 @@
+# Pycharm
+.idea/
+*.iml
+*.iws
+venv/
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
